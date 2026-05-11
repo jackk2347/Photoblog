@@ -116,6 +116,7 @@ The DB files are stored under the `Data/` directory in the project root.
 
 ## Project Structure (repository layout)
 
+```text
 .
 |-- build.gradle
 |-- settings.gradle
@@ -190,6 +191,7 @@ The DB files are stored under the `Data/` directory in the project root.
         |-- java/
             |-- hkmu/comps380f/
                 |-- CSAppApplicationTests.java
+```
 
 
 ## Useful URLs (after server starts)
